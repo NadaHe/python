@@ -1,2 +1,2 @@
 # python
-This is some notes about python as a basic course
+These are some notes about python as a basic course
